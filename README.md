@@ -1,4 +1,4 @@
 ## Моё резюме
 
--https://werrrrryttt.github.io/amcp-cv/cv
+https://werrrrryttt.github.io/amcp-cv/cv
 
